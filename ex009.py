@@ -1,0 +1,18 @@
+print('======== EXERCICIO 009 ========')
+tabuada = int(input('Digite o numero que deseja saber de tabuada: '))
+print('-'*15)
+print('{} x {} = {}' .format(tabuada, 1, tabuada*1))
+print('{} x {} = {}' .format(tabuada, 2, tabuada*2))
+print('{} x {} = {}' .format(tabuada, 3, tabuada*3))
+print('{} x {} = {}' .format(tabuada, 4, tabuada*4))
+print('{} x {} = {}' .format(tabuada, 5, tabuada*5))
+print('{} x {} = {}' .format(tabuada, 6, tabuada*6))
+print('{} x {} = {}' .format(tabuada, 7, tabuada*7))
+print('{} x {} = {}' .format(tabuada, 8, tabuada*8))
+print('{} x {} = {}' .format(tabuada, 9, tabuada*9))
+print('{} x {} = {}' .format(tabuada, 10, tabuada*10))
+print('-'*15)
+print('='*31)
+print('A tabuada do {} foi finalizada!' .format(tabuada))
+
+# Exercícios proposto pelo Professor Gustavo Guanabara do Curso em Video #
